@@ -75,7 +75,7 @@
 |cityPartRange|지역구|범주형 : 1 ~ 10 
 |numPrevOwners|이전 집 소유자 거친 횟수(매매 횟수)|수치형(이산형)
 |made|제작연도|이진형 : 0,1
-|isNewBuilt|신축 건물(리빌딩) 여부|이진형 : 0,1 
+|isNewBuilt|리빌딩(신축 건물) 여부|이진형 : 0,1 
 |hasStormProtector|태풍 보호기 설치 여부|이진형 : 0,1
 |basement|지하실 면적넓이|수치형(연속형)
 |attic|다락방 면적넓이|수치형(연속형)
