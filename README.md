@@ -31,7 +31,7 @@
 |id|고유 id|인덱스와 같은 의미(제거 가능)
 |gender|성별|범주형(명목형) : Male, Female, other
 |age|나이|수치형
-|hypertension|고혈압 유무| 이진형 : 0,1
+|hypertension|고혈압 유무|이진형 : 0,1
 |heart_disease|심장질환 유무|이진형 : 0,1
 |ever_married|결혼 유무|이진형 : Y, N
 |work_type|업무형태|범주형(명목형) : Private, children, Govt_job, Self-employed, Never_worked
@@ -74,7 +74,7 @@
 |cityCode|건물 구별 고유 코드 (우편번호)|범주형
 |cityPartRange|지역구|범주형 : 1 ~ 10 
 |numPrevOwners|이전 집 소유자 거친 횟수(매매 횟수)|수치형(이산형)
-|made|제작연도|이진형 : 0,1
+|made|제작연도|범주형
 |isNewBuilt|리빌딩(신축 건물) 여부|이진형 : 0,1 
 |hasStormProtector|태풍 보호기 설치 여부|이진형 : 0,1
 |basement|지하실 면적넓이|수치형(연속형)
